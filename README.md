@@ -15,7 +15,7 @@ A read-only inventory of common mastodon elements, so you can design your own st
 
 ## Create your own
 
-1. Clone repository
+1. [clone repository](https://github.com/praxisnyc/mastodon-theme/)
 2. create a folder for your theme inside `/styles`
 3. open `/styles/application.scss` and import your `.scss` files
 4. on terminal, go to `/styles`
